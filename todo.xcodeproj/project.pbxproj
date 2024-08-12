@@ -33,6 +33,7 @@
 		1E4DE7A22C4FE1CF0070450A /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4DE7A12C4FE1CF0070450A /* LoginViewViewModel.swift */; };
 		1E4DE7A42C4FE1DC0070450A /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4DE7A32C4FE1DC0070450A /* RegisterViewViewModel.swift */; };
 		1E4DE7A62C4FE1F30070450A /* ToDoListViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E4DE7A52C4FE1F30070450A /* ToDoListViewViewModel.swift */; };
+		1EDBC5022C6A4B4F00D27F45 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EDBC5012C6A4B4F00D27F45 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +80,7 @@
 		1E4DE7A12C4FE1CF0070450A /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		1E4DE7A32C4FE1DC0070450A /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		1E4DE7A52C4FE1F30070450A /* ToDoListViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListViewViewModel.swift; sourceTree = "<group>"; };
+		1EDBC5012C6A4B4F00D27F45 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				1E4DE78F2C4FE0F30070450A /* LoginView.swift */,
 				1E4DE7912C4FE0FB0070450A /* RegisterView.swift */,
 				1E4DE7932C4FE1310070450A /* ToDoListView.swift */,
+				1EDBC5012C6A4B4F00D27F45 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -353,6 +356,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E4DE7982C4FE17B0070450A /* TodoListItem.swift in Sources */,
+				1EDBC5022C6A4B4F00D27F45 /* HeaderView.swift in Sources */,
 				1E4DE7902C4FE0F30070450A /* LoginView.swift in Sources */,
 				1E4DE7A42C4FE1DC0070450A /* RegisterViewViewModel.swift in Sources */,
 				1E4DE79E2C4FE1BC0070450A /* TodoListItemViewViewModel.swift in Sources */,
